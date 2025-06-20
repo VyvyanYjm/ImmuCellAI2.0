@@ -1,0 +1,1 @@
+run_ImmuCellAI2 --sample /public/home/yangjingmin/immucellAI2.0/known_celltype_ratio/project_GSE107019/04_finalresult/result_tpm.csv --output /public/home/yangjingmin/immucellAI2.0/validation/GSE107019/test.xlsx
